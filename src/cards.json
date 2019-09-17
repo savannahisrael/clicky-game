@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Kitten Mittens",
+      "image": "https://media.giphy.com/media/Cki0n5fW6L0cM/source.gif",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Freak Out",
+      "image": "https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Ghouls",
+      "image": "http://giphygifs.s3.amazonaws.com/media/DExShgVDOaS88/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Balls",
+      "image": "https://media.giphy.com/media/eIMvRP2aX4bXW/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Dance",
+      "image": "https://media.giphy.com/media/pQAK8jH9St8WY/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Nightman",
+      "image": "https://media.giphy.com/media/IgxQUKsll2AbC/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Picture",
+      "image": "http://giphygifs.s3.amazonaws.com/media/oVtm26xuvOziU/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Dee",
+      "image": "http://giphygifs.s3.amazonaws.com/media/sgGzBFsvpAzi8/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Munchkin",
+      "image": "https://media.giphy.com/media/uKLZ5zSkg2ghO/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Mittens",
+      "image": "http://giphygifs.s3.amazonaws.com/media/dN2rgCvVKPjjO/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Frank",
+      "image": "https://media.giphy.com/media/5wM8H1HyU76j6/giphy.gif",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Over It",
+      "image": "https://media.giphy.com/media/120EqwTfZoWN7W/giphy.gif",
+      "count": 0
+    }
+  ]
